@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: annam
+Build-Jdk: 17.0.2
+Implementation-Title: pricingApplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.pricing
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/pricingApplica
+ tion/
+Created-By: Maven Integration for Eclipse
+
